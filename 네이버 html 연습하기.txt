@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+        <header class="header">
+      <div class="header-items">네이버를 시작페이지로</div>
+         <div class="header-items">쥬니어 네이버</div>
+            <div class="header-items">해피빈</div>
+    </div>
+        </header>
+        <div class="top-contents">
+    <div class="logo-items">
+      <img src="https://mblogthumb-phinf.pstatic.net/20160622_73/hhtthh82_1466581509899OrBaG_PNG/%B3%D7%C0%CC%B9%F6-%B7%CE%B0%ED-%B0%ED%C8%AD%C1%FA.png?type=w800"width="222" height="100">
+    </div>
+    <div class=:"bar-container">
+    <div class="search-bar">
+      <input type="text" >
+    </div>
+        </div>
+        </div>
+      
+</div> 
+
+<div class="nav-container">
+  <div class="items items1"> 메일</div>
+ <div class="items items2">카페</div>
+ <div class="items items3">블로그</div>
+ <div class="items items4">지식iN</div>
+<div class="items items5">쇼핑</div>
+    <div class="items items6">Pay</div>
+ <div class="items items7">TV</div>
+    <div class="items items8">사전</div>
+         <div class="items items9">뉴스</div>
+       <div class="items items10">증권</div>
+       <div class="items items11">부동산</div>
+          <div class="items items12">지도</div>
+            <div class="items items13">VIBE</div>
+              <div class="items items14">영화</div>
+               <div class="items items15">책</div>
+                   <div class="items items16">웹툰</div>
+                  <div class="items items17">더보기</div>
+</div>
+
+
+    <script src="script.js"></script>
+  </body>
+</html>

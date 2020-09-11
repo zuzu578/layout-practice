@@ -1,0 +1,57 @@
+body{
+  margin: 0%;
+}
+
+.header{
+ display: flex;
+ justify-content: flex-end;
+ margin-right:100px;
+ 
+}
+
+.header-items{
+ padding: 10px;
+ font-size: 14px;
+  
+}
+
+.logo-items{
+  padding-left:50px;
+  
+}
+
+.search-bar{
+  border:2px solid RGB(28, 206, 96);
+  width:586px;
+  height:56px ;
+  position: relative;
+  margin-left:300px;
+  bottom:84px;
+  
+
+}
+
+input[type=text]{
+  width: 570px;
+  height:40px ;
+  line-height: 100px;
+  outline:none;
+  border:0;
+
+  
+
+}
+.items{
+  color:RGB(5, 198, 91);
+}
+.nav-container{
+  display: flex;
+  justify-content: center;
+  border-top:1px solid RGB(223, 228, 231);
+  border-bottom: 1px solid RGB(223, 228, 231);
+}
+
+.items{
+  padding:20px;
+  
+}
