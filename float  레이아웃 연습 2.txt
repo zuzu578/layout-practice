@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="wrapper">
+     <div class="title">
+       MUsee D orsay  
+     </div>
+     <p>Royal Academy of Arts, The ReaL Vangogh The artist and his letters</p>
+     <div class="left">
+       <span>Artist</span>
+       <div class="items"> 작가의 작품 </div>
+        <div class="items"> 작가의 시대 </div>
+         <div class="items">작가의 일생  </div>
+     </div>
+        
+       <div class="right">
+         <f>전세계인들에게</f><br/>
+         <g>제일 사랑받는</g>
+         <e>서양미술사의 시<br/>대</e>
+       </div>
+      
+
+       <div class="main">
+         <h1>피리부는 소년 </h1>
+          <span> 에두아르마네</span>
+          <h3>1886 캔버스 유재, 161 cm 파리오르세</h3>
+
+          <h1>피리부는 소년 </h1>
+          <span> 에두아르마네</span>
+          <h3>1886 캔버스 유재, 161 cm 파리오르세</h3>
+
+          <h1>피리부는 소년 </h1>
+          <span> 에두아르마네</span>
+          <h3>1886 캔버스 유재, 161 cm 파리오르세</h3>
+
+           <h1>피리부는 소년 </h1>
+          <span> 에두아르마네</span>
+          <h3>1886 캔버스 유재, 161 cm 파리오르세</h3>
+
+          <h1>피리부는 소년 </h1>
+          <span> 에두아르마네</span>
+          <h3>1886 캔버스 유재, 161 cm 파리오르세</h3>
+
+          <h1>피리부는 소년 </h1>
+          <span> 에두아르마네</span>
+          <h3>1886 캔버스 유재, 161 cm 파리오르세</h3>
+       </div>
+       
+
+      
+
+
+
+
+
+
+
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

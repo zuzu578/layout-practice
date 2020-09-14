@@ -1,0 +1,129 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+.wrapper{
+  width:630px;
+  border:1px solid red;
+}
+
+.title{
+  font-size:60px;
+  background:orange;
+  padding:10px;
+  text-align: center;
+  color:white;
+}
+h1{
+  width:440px;
+ 
+}
+p{
+  background: gray;  
+  color:white;
+  padding:5px;
+  text-align: center;
+}
+
+.left{
+  float: left;
+  width:160px;
+  height: 490px;
+  background:pink;
+}
+
+.right{
+  float: right;
+  width:160px;
+  height:490px ;
+  background:gray;
+}
+.footer-items{
+  background:blue;
+  clear: both;
+  text-align: center;
+  color:white;
+}
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="wrapper">
+    <div class="title">
+      Musee D orsay
+    </div>
+    <p>royal</p>
+
+    <div class="left">
+      <span>artist</span>
+      <div class="items">작품</div>
+         <div class="items">일생</div>
+            <div class="items">시대</div>
+
+    </div>
+
+    <div class="right">
+      <span>전세계인들에게</span>
+    </div>
+
+    <div class="main">
+      <h1>피리부는 소년</h1>
+      <h3>에두아르마네</h3>
+       <e>시발 시발 시발 시발</e> 
+       
+       <h1>피리부는 소년</h1>
+      <h3>에두아르마네</h3>
+       <e>시발 시발 시발 시발</e> 
+
+        <h1>피리부는 소년</h1>
+      <h3>에두아르마네</h3>
+       <e>시발 시발 시발 시발</e> 
+    
+
+         <h1>피리부는 소년</h1>
+      <h3>에두아르마네</h3>
+       <e>시발 시발 시발 시발</e> 
+   
+
+        <h1>피리부는 소년</h1>
+      <h3>에두아르마네</h3>
+       <e>시발 시발 시발 시발</e> 
+  
+
+
+
+         <h1>피리부는 소년</h1>
+      <h3>에두아르마네</h3>
+       <e>시발 시발 시발 시발</e> 
+
+      
+
+      <div class="footer-items">
+        202024910498104981209481029840912840
+      </div>
+      
+
+
+
+
+
+
+
+
+
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

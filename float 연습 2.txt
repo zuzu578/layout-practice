@@ -1,0 +1,33 @@
+*{
+ margin:0;
+ padding:0;
+
+}
+.wrapper{
+  width:550px;
+  border:1px solid red;
+ 
+}
+P{
+  font-size:12px;
+  
+}
+.column1{
+  width:180px;
+  background:#ccc;
+   padding:15px;
+   float:left;
+}
+.column2{
+  width:290px;
+  background:#eee;
+   padding:15px;
+   float:right;
+  
+}
+
+.column3{
+  background:#8cc;
+   padding:15px;
+   clear: both;
+}
