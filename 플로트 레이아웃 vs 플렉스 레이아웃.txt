@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div id="wrapper">
+      <div id="header">
+       <h1>Musee d'Orsay
+         <span>Musee d'osrsay musee d </span>
+       </h1>
+       
+      </div>
+      <div id="container">
+        <div class="cover">
+          <div class="content">
+            <dl> 
+              <dt> 피리부는 소년</dt>
+              <dd>에두아르마네</dd>
+              <dd> 1866 캔버스에 유채, 161x97 cm, 파리</dd> 
+              
+
+            
+            </dl>
+
+            <dl> 
+              <dt> 피리부는 소년</dt>
+              <dd>에두아르마네</dd>
+              <dd> 1866 캔버스에 유채, 161x97 cm, 파리</dd> 
+              
+
+            
+            </dl>
+
+            <dl> 
+              <dt> 피리부는 소년</dt>
+              <dd>에두아르마네</dd>
+              <dd> 1866 캔버스에 유채, 161x97 cm, 파리</dd> 
+              
+
+            
+            </dl>
+
+            <dl> 
+              <dt> 피리부는 소년</dt>
+              <dd>에두아르마네</dd>
+              <dd> 1866 캔버스에 유채, 161x97 cm, 파리</dd> 
+              
+
+            
+            </dl>
+
+            <dl> 
+              <dt> 피리부는 소년</dt>
+              <dd>에두아르마네</dd>
+              <dd> 1866 캔버스에 유채, 161x97 cm, 파리</dd> 
+              
+
+            
+            </dl>
+
+            <dl> 
+              <dt> 피리부는 소년</dt>
+              <dd>에두아르마네</dd>
+              <dd> 1866 캔버스에 유채, 161x97 cm, 파리</dd> 
+              
+
+            
+            </dl>
+
+        </div>
+        <dl class="sidemenu">
+          <dt> ARTIST</dt>
+          <dd><a href="#">작가의 작품 </a></dd>
+           <dd><a href="#">작가의 작품 </a></dd>
+            <dd><a href="#">작가의 작품 </a></dd>
+
+
+        </dl>
+        </div>
+        
+        <dl class="aside">
+        
+        <dt><span class="all">전세계인들에게</span><span class="love">제일 사랑받는</span>서양미술사의 시대</dt>
+        <dd>workshop<span>Lief drowing workshop</span></dd>
+        <dd>workshop<span>Lief drowing workshop</span></dd>
+        <dd>workshop<span>Lief drowing workshop</span></dd>
+        </dl>
+      </div>
+      <div id="footer">
+        <address>copy; 2012 les amis du musee   </address>
+      </div>
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+
+*{
+  padding:0;
+  margin: 0;
+}
+a{
+  color:black;
+}
+  #wrapper{
+    width:800px;
+    margin:0 auto;
+    border:1px solid red;
+    background: #fff; 
+
+  }
+  #header{
+    background:#fa0;
+    height:100px ;
+    color:white;
+    text-align: center;
+    line-height: 100px;
+    font-size:10px;
+  }
+  #container{
+    
+  }
+  .cover{
+   width:600px;
+   float: left;
+  }
+
+  .content{
+    width:400px;
+    float:right;
+  }
+  .sidemenu{
+    width:200px;
+    
+  }
+  .aside{
+    width:200px;
+    float: right;
+  }
+ #footer{
+clear: both;
+ }
+  

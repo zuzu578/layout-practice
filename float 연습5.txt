@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="title-items">
+        <h1>Site Logo </h1>
+         <p>Header 부분입니다. </p>
+      </div>
+      <div class="left-items">
+        <div class="items"> 메인1 </div>
+         <div class="items"> 메인2 </div>
+          <div class="items">메인3  </div>
+        
+
+        </div>
+        <div class="main-items">
+          <div class="main">
+            Html Css3 이용한 웹사이트 개발
+          </div>
+        </div>
+          <div class="footer-items">
+            아래 내용 
+          </div>
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+  padding:0;
+  margin: 0;
+}
+
+.wrapper{
+  width:800px;
+  margin:0 auto;
+}
+
+.title-items{
+  background:orange;
+  height:100px ;
+  border:1px solid black;
+  border-radius: 5px;
+}
+
+.main-items{
+  width:600px;
+  border:1px solid black;
+   height: 441px;
+   margin-left:200px;
+   border-radius: 5px;
+}
+
+.footer-items{
+  clear: both;
+  border:1px solid purple;
+  border-radius: 5px;
+  margin-top:5px;
+}
+
+.left-items{
+  width:180px;
+ height:440px;
+  border:1px solid green;
+  border-radius: 5px;
+  
+  float: left;
+}
+.items{
+  padding:20px;
+  padding-left:30px;
+  
+}

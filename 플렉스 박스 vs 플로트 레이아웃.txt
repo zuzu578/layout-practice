@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="header">
+        <h3>hello world</h3>
+      </div>
+      <div class="container">
+      <div class="left">
+      hi.  
+    <div class="items"><a href="">작가의작품</a></div>
+      <div class="items"><a href="">작가의 시대</a></div>
+        <div class="items"><a href="">작가의 일생</a></div>
+        </div>
+  
+
+      <div class="main">
+       <h4> hello world. </h4>
+       <div class="sub-items">
+         에두아르마네 
+         1866캔버스에 유채 
+       </div>
+
+       <h4> hello world. </h4>
+       <div class="sub-items">
+         에두아르마네 
+         1866캔버스에 유채 
+       </div>
+
+       <h4> hello world. </h4>
+       <div class="sub-items">
+         에두아르마네 
+         1866캔버스에 유채 
+       </div>
+
+       <h4> hello world. </h4>
+       <div class="sub-items">
+         에두아르마네 
+         1866캔버스에 유채 
+       </div>
+
+       <h4> hello world. </h4>
+       <div class="sub-items">
+         에두아르마네 
+         1866캔버스에 유채 
+       </div>
+
+       <h4> hello world. </h4>
+       <div class="sub-items">
+         에두아르마네 
+         1866캔버스에 유채 
+       </div>
+       
+      </div>
+    
+    
+    <div class="right">
+      hi.  
+
+      <div class="right-items">  1</div>
+        <div class="right-items">  2</div>
+          <div class="right-items"> 3 </div>
+  
+
+    </div>
+
+ 
+    </div>
+    
+       <div class="footer-items">
+      <div class="footer">2012 les</div>
+       </div>
+  
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+
+
+
+*{
+  padding:0;
+  margin:0;
+}
+.wrapper{
+  width:800px;
+  margin:0 auto;
+  
+}
+
+.header{
+  background:orange;
+  height:90px ;
+  width:787px;
+  text-align: center;
+  font-size:40px;
+  color:white;
+  line-height: 90px;
+  
+  
+}
+
+.sub-items{
+  padding:10px;
+}
+h4{
+ background-color:blue;
+ padding:10px;
+ color:white;
+}
+.items{
+  padding:10px;
+}
+.footer-items{
+  width:745px;
+  border:1px solid red;
+  padding:20px;
+}
+.main{
+  width:400px;
+  border:1px solid red;
+  padding:20px;
+  
+}
+.right{
+  width: 130px;
+    height:500px ;
+  border:1px solid red;
+  padding:20px;
+}
+.left{
+  width:130px;
+  height:500px ;
+  border:1px solid red;
+  padding:20px;
+}
+
+.container{
+  display: flex;
+}

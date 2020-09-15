@@ -1,0 +1,154 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body> 
+    <div class="wrapper">
+
+    <div class="header">
+      <h1>로고</h1>
+    </div>
+    <div class="nav-items">
+      <div class="nav"> 메인1 </div>
+      <div class="nav"> 메인2 </div>
+      <div class="nav">메인3  </div>
+    </div>
+
+    <div class="left">
+      <div class="left-items">사이드메뉴1  </div>
+      <div class="left-items"> 사이드메뉴2 </div>
+      <div class="left-items">사이드메뉴3  </div>
+    </div>
+    
+    <div class="right">
+      <div class="right-items">
+        여기는 배너가 들어가는 자리입니다.
+      </div>
+    </div>
+
+    <div class="main-items">
+      <div class="Main">
+        html5 css 를 이용한 웹 사이트 개발 <br>
+        article 에 해당하는 내용이 들어갑니다
+      </div>
+    </div>
+    
+
+
+    <div class="footer-items">
+      아래부분
+    </div>
+
+    </div>
+  
+
+
+
+
+
+
+
+
+
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+*{
+  margin: 0;
+  padding:0;
+}
+.wrapper{
+  width: 800px;
+  
+  margin: 0 auto;
+}
+h1{
+  padding:20px;
+}
+
+.header{
+  background:orange;
+  height:80px ;
+  border:1px solid black; 
+  border-radius: 5px;
+}
+.nav-items{
+  display: flex;
+  border:1px solid black;
+  border-radius: 5px;
+  background:pink;
+  margin-top:5px;
+  height:40px ;
+
+  }
+  .nav{
+    padding:10px;
+    padding-left:60px;
+    line-height: 25px;
+  }
+
+  .left{
+    border:1px solid black;
+    border-radius: 5px;
+    background:greenyellow;
+    width:130px;
+    float: left;
+    height:500px;
+    margin-top:10px;
+  }
+
+  .footer-items{
+    clear: both;
+  }
+
+  .right{
+    border-radius: 5px;
+    width:130px;
+    height: 500px;
+    border:1px solid black;
+    float: right;
+    margin-top:10px;
+  }
+  .Main{
+    padding:30px;
+  }
+
+  .left-items{
+    padding:10px;
+  }
+
+  .main-items{
+    border:1px solid black;
+    width:500px;
+    margin-left:150px;
+    border-radius: 5px;
+    margin-top:10px;
+     
+  height:500px ;
+  }
+
+  .footer-items{
+    border:1px solid purple;
+    padding:20px;
+    border-radius: 5px;
+    background:purple;
+    color:white;
+    margin-top:10px;
+
+  }
