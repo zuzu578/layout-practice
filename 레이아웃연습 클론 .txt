@@ -1,0 +1,158 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="nav-container">
+
+      <div class="nav-items">Explore</div>
+       <div class="nav-items">Topics</div>
+        <div class="nav-items">Trending </div>
+         <div class="nav-items">Collections </div>
+          <div class="nav-items">Events </div>
+           <div class="nav-items">Github Sponsors </div>
+
+          <div class="button1">
+            <div class="items">Get email updates</div>
+          </div>
+    </div>
+  
+        <div class="center-items">
+          <h1>Collections </h1>
+          <p>Curated lists and insight into burgeoning industries, topics, and communities.    </p>
+
+          <div class="button2">
+            <div class="buttons">
+              Create a collection
+       
+            </div>
+
+          </div>
+
+        </div>
+
+
+      <div class="flex-box">
+      <div class="box1">
+        <h2>Learn to Code</h2>
+        <e>     Resources to help people learn to<br>code
+
+          </e>
+      </div>
+       <div class="box1">
+        <h2>Learn to Code</h2>
+        <e>     Resources to help people learn to<br>code
+
+          </e>
+       </div>
+
+
+        <div class="box1">
+        <h2>Learn to Code</h2>
+        <e>     Resources to help people learn to<br>code
+
+          </e>
+
+        </div>
+        </div>
+
+       </div>
+    
+      </div>
+      </div>
+    
+
+
+
+      
+
+
+
+
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+
+
+
+
+
+*{
+  padding:0;
+  margin: 0;
+  
+}
+
+.nav-container{
+  margin: 0 auto;
+  
+  height: 50px;
+  display: flex;
+  width:1199px;
+  align-items: center;
+ 
+  
+}
+
+.button2{
+  border:1px solid RGB(216, 219, 218);
+  width:160px;
+  height:30px ;
+  line-height: 30px;
+  margin:0 auto;
+  margin-top:20px;
+  border-radius: 7px;
+  color:RGB(19, 116, 231);
+  font-weight: bold;
+  cursor: pointer;
+}
+.flex-box{
+  display: flex;
+  justify-content: center;
+  margin-top:200px;
+}
+
+.center-items{
+  text-align: center;
+  margin-top:70px;
+}
+.box1{
+  margin-right:60px;
+  border:1px solid gray;
+  width:337px;
+  height:263px ;
+  
+}
+h2{
+  padding:32px;
+}
+e{
+  padding:32px;
+}
+.button1{
+  border:1px solid RGB(19, 116, 231);
+  width:153px;
+  height: 39px;
+  line-height: 39px;
+  text-align: center;
+  background: RGB(19, 116, 231);
+  color:white;
+  border-radius: 7px;
+  margin-left:200px;
+}
+
+
+
+
+.nav-items{
+  
+  padding-left:30px;
+}
