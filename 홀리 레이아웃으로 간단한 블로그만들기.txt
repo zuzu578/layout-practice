@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="wrapper">
+
+
+      <div class="header">
+       <h1>HTML5 Exapmple Preview</h1>
+      </div>
+
+
+      <div class="nav-container">
+        <div class="items"><a href="#">HTML5 </a> </div>
+         <div class="items"><a href="#">CSS3 </a> </div>
+          <div class="items"><a href="#">JavaScript</a></div>
+
+        <div class="search-bar">
+          <input type="text">
+        </div>
+        <div class="button">
+          검색
+        </div>
+      </div>
+      <div class="right">
+        <h2>카테고리</h2>
+        <div class="right-items"> 데이터  </div>
+        <div class="right-items"> 데이터  </div>
+        <div class="right-items"> 데이터  </div>
+        <div class="right-items"> 데이터  </div>
+        <div class="right-items">  데이터 </div>
+
+        <h5>최근글</h5>
+        <div class="right-items"> 데이터  </div>
+        <div class="right-items"> 데이터  </div>
+        <div class="right-items">  데이터 </div>
+      </div>
+    
+    <div class="main-items1">
+      <h3> HtmL5 개요와 활용</h3>
+      <p> 2018년 11월 08일 </p>
+
+
+    <div class="text-items">
+      Lorem ipsum dolor sit amet,
+       Lorem ipsum dolor sit amet,
+    </div>
+
+
+
+     <div class="main-items2">
+      <h4> HtmL5 개요와 활용</h4>
+      <p> 2018년 11월 08일 </p>
+
+
+    <div class="text-items">
+      Lorem ipsum dolor sit amet,
+       Lorem ipsum dolor sit amet,
+    </div>
+     </div>
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+  margin: 0;
+  padding:0;
+
+}
+a{
+  text-decoration: none;
+  color:black;
+  
+
+}
+
+.button{
+  margin-left:5px;
+  border:1px solid aqua;
+  width:50px;
+  height: 35x;
+  text-align: center;
+  cursor: pointer;
+  background: aqua;
+  border-radius: 2px;
+  
+  
+
+}
+ a:hover{
+  color:white ;
+  border:1px solid aqua;
+  border-radius: 30px;
+  background: aqua;
+
+}
+.wrapper{
+width:960px;
+margin: 0 auto;
+  
+}
+.right{
+  float: right;
+  margin-top:50px;
+  margin-right:120px;
+}
+p{
+  margin-top:10px;
+}
+h3{
+  font-size:30px;
+  width:700px;
+}
+h5{
+  margin-top:50px;
+  font-size:20px;
+}
+.text-items{
+  margin-top:300px;
+}
+.main-items1{
+  margin-top:50px;
+}
+.main-items2{
+  margin-top:250px;
+  border-top:1px solid gray ;
+  width:700px;
+}
+h4{
+  margin-top:30px;
+  font-size:30px;
+}
+.items{
+  padding:20px;
+}
+.search-bar{
+  padding-left:470px;
+}
+.nav-container{
+  display: flex;
+  border:1px solid gray;
+  height:40px ;
+  align-items: center;
+}
+h1{
+  padding:20px;
+  line-height: 60px;
+ 
+}
+
+.header{
+  border:1px solid gray;
+  height:100px ;
+  border-radius: 5px;
+
+}
