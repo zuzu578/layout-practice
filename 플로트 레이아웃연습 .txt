@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="header">
+      <h1>Musee d orsay </h1>
+      <h2>Royal academy of Arts</h2>
+      </div>
+      <div class="left">
+        <h3>Artist</h3>
+        <div class="left-items">
+          <div class="items"> 작품 </div>
+             <div class="items">시대 </div>
+                <div class="items">일생 </div>
+        </div>
+        </div>
+        <div class="right-items">
+          <div class="items">전세계인들에게</div>
+        </div>
+      
+    
+        <div class="main-items">
+          <h4>피리부는 소년 </h4>
+          <p>에두아르마네></p>
+
+           <h4>피리부는 소년 </h4>
+          <p>에두아르마네></p>
+
+
+           <h4>피리부는 소년 </h4>
+          <p>에두아르마네></p>
+
+
+           <h4>피리부는 소년 </h4>
+          <p>에두아르마네></p>
+
+
+           <h4>피리부는 소년 </h4>
+          <p>에두아르마네></p>
+
+
+
+           <h4>피리부는 소년 </h4>
+          <p>에두아르마네></p>
+
+
+        </div>
+
+
+
+
+        <div class="footer-items">
+          2012 Les
+
+
+
+        </div>
+
+
+
+      </div>
+
+    </div>
+  
+
+
+
+
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+  margin: 0;
+  padding:0;
+
+}
+.wrapper{
+  width:800px;
+ 
+  margin:0 auto;
+}
+h4{
+background: violet;
+
+}
+p{
+  
+}
+.main-items{
+padding-left:160px;
+padding-top: 10px;
+  width: 480px;
+}
+h1{
+  background:orange;
+  color:white;
+  font-size:80px;
+  text-align: center;
+
+}
+h2{
+  background:gray;  
+ font-size:15px;
+ text-align: center;    
+}
+
+.left{
+  width:140px;
+  border:1px solid black;
+  float:left;
+  height:246px ;
+   
+}
+
+.right-items{
+  border:1px solid black;
+  width:140px;
+  float:right;
+  height:246px ;
+}
+
+.footer-items{
+  background:blue;
+  clear: both;
+  height:40px ;
+  padding-left:50px;
+  line-height: 40px;
+  color:white;
+}
