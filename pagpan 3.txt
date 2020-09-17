@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+       <div class="Wrapper">
+      <header class="header-container">
+        <h1>Pagpan</h1>
+        <div class="image-box2">
+          <img src="back_img1.jpg">
+
+        </div>
+
+        <nav class="nav-items">
+        <div class="items">HOME </div>
+        <div class="items">About us  </div>
+        <div class="items">Menu  </div>
+        <div class="items">Where we are   </div>
+        <div class="items">Today's recipes  </div>
+        <div class="items"> Blog </div>
+
+
+
+      </nav>
+
+        <div class="image-header">
+          <img src="aboutus_back.jpg">
+          
+
+
+        </div>
+        
+
+
+
+      </header>
+      <div class="main-container">
+      <div class="left"> 
+       <ul class="left-items">
+         <li class="Litems">Welcome </li>
+         <li class="Litems">history </li>
+         <li class="Litems">notice </li>
+
+
+
+       </ul>
+
+
+
+      </div>
+
+      
+      <div class="center-items">
+        <h1>Welcome</h1>
+        <div class="image-3">
+        <img src="ceo.jpg">
+
+        </div>
+        <div class="main">
+          <p>Welcome to PAGPAN Restarant. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eleifend vehicula urna ac tincidunt. Curabitur dolor velit, rhoncus ac tristique in, lobortis dictum est. Proin eros nisl, gravida et gravida vitae, interdum a sem. Integer iaculis ullamcorper purus. Nunc elementum velit odio, at dapibus tortor congue sit amet. Vivamus posuere, quam et tempus facilisis, nisi dolor ultricies eros, ut elementum mi sem at risus. Mauris sed viverra tortor, at mollis justo. Morbi vitae volutpat nisi.
+
+Vivamus nunc magna, egestas interdum eleifend eu, malesuada vitae risus. Ut vehicula sollicitudin erat, at tincidunt tellus tempus in. Nullam vehicula, arcu nec faucibus posuere, enim purus venenatis erat, id fringilla tellus lorem quis metus. Donec condimentum magna id eleifend euismod. Aliquam erat volutpat. Etiam vitae ex at nisi dignissim venenatis at in urna. Nullam suscipit felis nec nunc laoreet, et molestie sapien finibus. Cras ac blandit mi. Morbi lacinia diam sem, id euismod augue aliquet eu. Phasellus porta nibh arcu, sit amet dignissim massa dignissim vel. Phasellus pharetra augue magna, quis blandit neque fermentum at. Pellentesque semper mauris tortor, ut pretium enim ornare ut. Pellentesque a efficitur odio. Quisque in purus ac leo laoreet gravida vel eu ante.
+
+Proin molestie tortor ac turpis tincidunt, nec volutpat felis tincidunt. Sed convallis turpis ut viverra pharetra. Vestibulum nisi odio, volutpat nec lobortis a, bibendum eu libero. Ut bibendum mattis ipsum ac consectetur. Vestibulum nec leo malesuada, ornare dui vel, suscipit sem. Ut nec felis mi. Donec varius et dolor at auctor. Duis dignissim semper ligula vitae maximus.
+
+Etiam quis leo finibus, vulputate ligula in, semper nibh. Sed tincidunt dolor dolor, non rutrum leo pretium vel. Sed fringilla arcu id cursus cursus. Nunc at laoreet purus, sit amet rhoncus nunc. Maecenas tristique velit felis, eu consequat lectus tincidunt quis. Nam maximus egestas gravida. Quisque ligula tortor, luctus quis sodales vel, vulputate a metus. Maecenas aliquet lorem at neque porttitor aliquet. Donec interdum eget tellus eget aliquam. Quisque nec turpis risus. Vivamus finibus at felis sed luctus. Fusce eu ante a turpis posuere pharetra eget a risus.
+          </p>
+
+
+        </div>
+
+      
+
+      </div>
+      </div>
+       </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+  margin:0;
+  padding:0;
+  list-style-type: none;
+
+}
+.Wrapper{
+  width:900px;
+  margin:0 auto;
+}
+.nav-items{
+  display: flex;
+  background: blue;
+  color:white;
+  padding:10px;
+  width:880px;
+  
+
+
+}
+.items{
+  padding:10px;
+}
+
+.image-box2{
+  float: right;
+}
+
+.left{
+  padding:30px;
+}
+
+.Litems{
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+.main-container{
+  display: flex;
+}
+
+.image-3{
+  float: left;
+}
+h1{
+  margin-left:90px;
+  color:greenyellow;
+}
+.center-items{
+  margin-top:40px;
+}
