@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <nav class="nav-container">
+      <div class="logo-items">
+       <span class="g">G</span><span class="o">o</span><span class="t">o</span><span class="f">g</span><span class="l">l</span><span class="e">e</span>
+
+      </div>
+      <div class="menu-items">
+        <div class="menu">정보</div>
+           <div class="menu">Google for Korea</div>
+              <div class="menu">제품</div>
+                 <div class="menu">약속</div>
+                    <div class="menu">스토리</div>
+
+
+      </div>
+
+
+
+    </nav>
+    <div class="section">
+      <h1>Google의 목표는 전 세계의 <p1>정보</p1>를</br> <p2>체계화</p2>하여 <p3>모두가 편리</p3> 하게 <p4>이용</p4>할</br> 수 있도록 하는 것입니다.</h1>
+
+
+    </div>
+    <div class="module-container">
+      <div class="module">
+        <img src="https://lh3.googleusercontent.com/Y-q0H69ULe_ZIujUCJHTtEGU-640RyplLtowyReeqsRIGDSZ-KKrlra9YJ8hCqQlnl7j6YyOvVvz41-GjfitM0a0TQwDKvUUP0dvzew=w2880-l80-sg-rj-c0xffffff"width="1039" height="584">
+        <div class="text-box">
+        <div class="title">코로나바이러스감염증-19</div>
+        <div class="sub-title">건강 정보 및 유용한 자료</div>
+        <a href="#">최신 정보 확인하기</a>
+        </div>
+
+
+      </div>
+
+      <div class="module">
+        <img src="https://lh3.googleusercontent.com/Y-q0H69ULe_ZIujUCJHTtEGU-640RyplLtowyReeqsRIGDSZ-KKrlra9YJ8hCqQlnl7j6YyOvVvz41-GjfitM0a0TQwDKvUUP0dvzew=w2880-l80-sg-rj-c0xffffff"width="1039" height="584">
+        <div class="text-box">
+        <div class="title">코로나바이러스감염증-19</div>
+        <div class="sub-title">건강 정보 및 유용한 자료</div>
+        <a href="#">최신 정보 확인하기</a>
+        </div>
+
+
+      </div>
+
+      <div class="module">
+        <img src="https://lh3.googleusercontent.com/Y-q0H69ULe_ZIujUCJHTtEGU-640RyplLtowyReeqsRIGDSZ-KKrlra9YJ8hCqQlnl7j6YyOvVvz41-GjfitM0a0TQwDKvUUP0dvzew=w2880-l80-sg-rj-c0xffffff"width="1039" height="584">
+        <div class="text-box">
+        <div class="title">코로나바이러스감염증-19</div>
+        <div class="sub-title">건강 정보 및 유용한 자료</div>
+        <a href="#">최신 정보 확인하기</a>
+        </div>
+
+
+      </div>
+
+      <div class="module">
+        <img src="https://lh3.googleusercontent.com/Y-q0H69ULe_ZIujUCJHTtEGU-640RyplLtowyReeqsRIGDSZ-KKrlra9YJ8hCqQlnl7j6YyOvVvz41-GjfitM0a0TQwDKvUUP0dvzew=w2880-l80-sg-rj-c0xffffff"width="1039" height="584">
+        <div class="text-box">
+        <div class="title">코로나바이러스감염증-19</div>
+        <div class="sub-title">건강 정보 및 유용한 자료</div>
+        <a href="#">최신 정보 확인하기</a>
+        </div>
+
+
+      </div>
+
+      <div class="module">
+        <img src="https://lh3.googleusercontent.com/Y-q0H69ULe_ZIujUCJHTtEGU-640RyplLtowyReeqsRIGDSZ-KKrlra9YJ8hCqQlnl7j6YyOvVvz41-GjfitM0a0TQwDKvUUP0dvzew=w2880-l80-sg-rj-c0xffffff"width="1039" height="584">
+        <div class="text-box">
+        <div class="title">코로나바이러스감염증-19</div>
+        <div class="sub-title">건강 정보 및 유용한 자료</div>
+        <a href="#">최신 정보 확인하기</a>
+        </div>
+
+
+      </div>
+
+
+
+
+    </div>
+    <div class="box-container1">
+      <div class="box1">
+        <div class="img-box">
+          <img src="https://lh3.googleusercontent.com/MuEBlmSXEawKPeHNtrU8HbbqJCG4qRW3Ybeq7J1NkHruAz0LKBeL8cB1PdmIZNF974hWAlC5xCV8NvaazusYa5m0wGwDr6ouFQ7H=w2880-l80-sg-rj-c0xffffff"width="510">
+          <div class="text-box2">
+          <div class="title-google">구글 채용정보  </div>
+          <div class="a-tag"><a href="">참여하기</a></div>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="box1">
+         <div class="img-box">
+          <img src="https://lh3.googleusercontent.com/VpAJU4nVm9mzKA2H5GVcUR7qJ8aGQhXPg-KaKDSZQDcdDgIpwGLY0b7HgluLUDFh82djR2OUm9hSwC6r4qt8s4MSJuMoiNZjzn-TWw=w2880-l80-sg-rj-c0xffffff"width="510">
+          <div class="text-box2">
+          <div class="title-google">구글 위치정보  </div>
+          <div class="a-tag"><a href="">찾아오는길</a></div>
+          </div>
+
+        </div>
+
+      </div>
+      
+    </div>
+    <div class="box-container2">
+      <div class="box1">
+         <div class="img-box">
+          <img src="https://lh3.googleusercontent.com/tgO6Ew3YkxrCoGvyNpfAWyPe9q_0Zg2WFM8uW5UKzFl6g0QP2EeVpvuOPwZ6_WLbL0NiHQkS8CdaL0k2jtd_YkwdvNZPZ82VAH9nsQ=w2880-l80-sg-rj-c0xffffff"width="510">
+          <div class="text-box2">
+          <div class="title-google">차고에서 Googleplex까지  </div>
+          <div class="a-tag"><a href="">Google의 역사</a></div>
+          </div>
+
+        </div>
+
+      </div>
+      
+
+      <div class="box1">
+         <div class="img-box">
+          <img src="https://lh3.googleusercontent.com/7DU8cxZhaSRk3TneWvwmrWVDEfy6C2C49r57zN4HC1cxdPj9U9-YgBcWHmAWeYFpRPJja6YiZSbtHfmrHtWw1XwwNGP7sa2FKP3y=w2880-l80-sg-rj-c0xffffff"width="510"height"340">
+          <div class="text-box2">
+          <div class="title-google">문의하기 </div>
+          <div class="a-tag"><a href="">인사 나누기</a></div>
+          </div>
+
+        </div>
+
+      </div>
+      
+      
+
+
+
+    </div>
+    <h2>오늘의 기념일 로고</h2>
+    <div class="today-logo">
+      <p class="date">2020년 9월 22일</p>
+      <p class="title">벤야민 수엡 기념</p>
+    <div class="logo-image">
+      <img src="https://www.google.com/logos/doodles/2020/celebrating-benyamin-sueb-6753651837108308-2x.png">
+
+    </div>
+
+
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
