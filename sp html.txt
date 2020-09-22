@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    
+      <nav class="nav-container">
+        <div class="logo-items">
+          <img src="https://e7.pngegg.com/pngimages/347/416/png-clipart-spotify-logo-streaming-media-music-rollins-band-microphone-logo.png"width="60" height="60">
+
+        </div>
+        <div class="menu-items1">
+          <div class="menu1">Premium  </div>
+            <div class="menu1"> Help </div>
+              <div class="menu1"> Download </div>
+               <div class="menu2"> Sign up </div>
+           <div class="menu2"> Log In </div>
+
+        
+       
+         
+        
+      </nav>
+      <div class="text-box">
+        <h2 class="text-box-h2">Spotify is currently not</br> available in your country.</h2>
+        <h3 class="text-box-h3">Follow us online to find out when we launch.</h3>
+
+   
+      </div>
+
+
+
+    </div>
+    <h2 class="contents-h2"> Spotify gives you instant access to millions of songs – from</br> old favorites to the latest hits. Just hit play to stream anything</br> you like.  </h2>
+
+    <div class="contents-container">
+      
+      <div class="image-contents">
+        <div class="image-1">
+          <img src="https://www.scdn.co/i/generic/premium-img1.jpg"width="212" height="141">
+          <h3 class="image-h3">Listen everywhere</h3>
+          <p>Spotify works on your computer,</br> mobile, tablet and TV.</p>
+
+
+        </div>
+
+
+      </div>
+
+      <div class="image-contents">
+        <div class="image-1">
+          <img src="https://www.scdn.co/i/generic/premium-img2.jpg"width="212" height="141">
+          <h3 class="image-h3">Unlimited, ad-free music</h3>
+          <p>No ads. No interruptions. Just</br> music.</p>
+
+
+        </div>
+
+
+      </div>
+
+      <div class="image-contents">
+        <div class="image-1">
+          <img src="https://www.scdn.co/i/generic/premium-img3.jpg"width="212" height="141">
+          <h3 class="image-h3">Download music & listen offline</h3>
+          <p>Keep playing, even when you</br> don't have a connection.</p>
+
+
+        </div>
+
+
+      </div>
+
+
+      <div class="image-contents">
+        <div class="image-1">
+          <img src="https://www.scdn.co/i/generic/premium-img4.jpg"width="212" height="141">
+          <h3 class="image-h3">Premium sounds better</h3>
+          <p>Get ready for incredible</br> sound quality.</p>
+
+
+        </div>
+
+
+      </div>
+
+
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

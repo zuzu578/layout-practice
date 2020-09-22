@@ -1,0 +1,81 @@
+*{
+  margin:0;
+  padding:0;
+
+}
+.image-items{
+  height: 391px;
+}
+body{
+  background-image:url("https://www.scdn.co/i/generic/hero-lg.jpg");
+  background-repeat: no-repeat;
+  height:391px ;
+}
+.nav-container{
+  display: flex;
+  width:1199px;
+  margin:0 auto;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+.menu-items1{
+display: flex;
+}
+.image-items{
+  
+}
+.menu-items2{
+display: flex;
+}
+.menu1{
+  padding-right:30px;
+}
+.menu2{
+  padding-right:20px;
+}
+.text-box{
+  display: flex;
+  align-items: center;
+ margin-top:24px;
+  flex-direction: column;
+}
+.contents-container{
+ margin-top:600px;
+}
+.text-box-h2{
+  color:white;
+  font-size:50px;
+  text-align: center;
+}
+.menu-items1{
+  font-weight: bold;
+  color:white;
+}
+.text-box-h3{
+  font-size:24px;
+  font-weight: bold;
+  color:white;
+  margin-top:24px;
+  margin-bottom:12px;
+
+}
+.contents-container{
+  display: flex;
+  justify-content: center;
+
+
+  
+}
+.image-contents{
+  margin-right:40px;
+  
+}
+.contents-h2{
+  text-align: center;
+  position: absolute;
+  left:25%;
+  top:105%;
+font-weight: bold;
+
+}
