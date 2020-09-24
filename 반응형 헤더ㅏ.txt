@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="logo">
+      logo
+      </div>
+      <div class="header">
+      <div class="header-items"><a href="#">메뉴1</a> </div>
+      <div class="header-items"><a href="#"> 메뉴2 </a> </div>
+      <div class="header-items"><a href="#"> 메뉴3</a> </div>
+
+      
+      <div class="header-items"><a href="#"> 메뉴4</a> </div>
+      </div>
+      <div class="icon">
+      <div class="icon-items">아이콘1 </div>
+      <div class="icon-items">아이콘2 </div>
+      </div> 
+
+
+
+    </div>
+
+
+    
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+*{
+ margin: 0;
+}
+a{
+text-decoration: none;
+color:white;
+display: block;
+
+}
+a:hover{
+  background:red;
+}
+
+
+.container{
+  display: flex;
+  justify-content: space-between;
+  background:black;
+  color: white;
+}
+.logo{
+  padding:10px;
+}
+.icon-items{
+  padding:10px;
+}
+.header-items{
+  padding:10px;
+}
+.header{
+display: flex;
+}
+
+.icon{
+  display: flex;
+
+}
+@media screen and (max-width:800px){
+  .container{
+    flex-direction: column;
+    align-items: center;
+  }
+  .header{
+   flex-direction: column;
+  }
+  a:hover{
+    background:red;
+  }
+  a{
+    display: block;
+  }
+  
+}
