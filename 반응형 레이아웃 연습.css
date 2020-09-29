@@ -1,0 +1,52 @@
+.container{
+  position: relative;
+  background:pink;
+ display: flex;
+ justify-content: space-around;
+  align-items: center;
+  bordeR:1px solid black;
+}
+ p{
+  border:1px solid red;
+  
+}
+.text-box{
+  
+}
+.image-box img{
+  border:1px solid blue;
+  width:100%;
+}
+
+@media screen and (max-width:800px){
+  .container{
+    flex-direction: column-reverse;
+  }
+}
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="text-box">
+       <p>Hello</p>
+
+      </div>
+
+      <div class="image-box">
+
+        <img src="2.png">
+      </div>
+
+
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
